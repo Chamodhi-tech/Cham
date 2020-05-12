@@ -1,2 +1,0 @@
-# Cham
-SNP Assignment report
